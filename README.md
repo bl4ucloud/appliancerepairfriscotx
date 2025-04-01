@@ -1,2 +1,0 @@
-# appliancerepairfriscotx
-My awesome repository
